@@ -27,7 +27,7 @@ export default class MyDocument extends Document {
     const siteUrl = "https://vedant-product-portfolio.vercel.app";
     const title = "Vedant's Product Portfolio";
     const description = "Vedant's product portfolio";
-    const ogImage = `${siteUrl}/og-image.png`;
+    const ogImage = `${siteUrl}/assets/preview/og-image.png`;
 
     return (
       <Html lang="en">
