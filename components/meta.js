@@ -46,7 +46,7 @@ import { HOME_OG_IMAGE_URL } from "../lib/constants";
 
 export default function Meta() {
   const title = "Vedant's Product Portfolio";
-  const description = "Vedant's product portfolio and blog.";
+  const description = "Vedant's product portfolio.";
 
   return (
     <Head>
